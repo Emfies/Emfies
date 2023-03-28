@@ -1,5 +1,5 @@
 ### Hi there I'm Mehmet Fatih.👋
-🌱 I’m currently learning HTML,CSS,BOOTSTRAP,JAVASCRIPT.
+🌱 I’m currently learning C#,ASP.NET,SQL.
 
 <!--
 **Emfies/Emfies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
